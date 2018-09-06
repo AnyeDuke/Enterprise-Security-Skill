@@ -1,9 +1,9 @@
 ## Enterprise-Security-Skill
 
-You can use the [editor on GitHub](https://github.com/AnyeDuke/Enterprise-Security-Skill/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/Enterprise-Security-Skill/edit/master/README.md) to maintain and preview the content.
 
 
-### 结构
+# 1.结构
 
 初步规划是分成企业安全方案，技术，思维，涉及企业安全规划，建设，运营，但不仅限于此
 
