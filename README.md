@@ -20,7 +20,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 ---
 
-![](C:\Users\TsengDuke\Desktop\企业安全技能树.png)
+![本项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%8A%80%E8%83%BD%E6%A0%91.png)
 
 
 
