@@ -23,11 +23,17 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 # 2.初衷
 
 建立企业安全技能知识库的原因有以下几点，或许有更多：
+
 1.知识需要积累和传递
+
 2.学习需要总结
+
 3.思维需要碰撞
+
 4.企业安全不能是浮于表面，更多的应该是思路，方案，技术的展现
+
 5.抛砖引玉
+
 
 # 3.Support or Contact
 
