@@ -5,32 +5,32 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 # 1.结构
 
-初步规划是分成企业安全方案，技术，思维，涉及企业安全规划，建设，运营，但不仅限于此
+初步规划是分成企业安全方案，技术，思维，资讯，涉及企业安全规划，建设，运营，但不仅限于此
 
 ```markdown
-Syntax highlighted code block
+企业安全方案
+  企业安全规划
+  企业安全建设
+  企业安全运营
+  其他
 
-# Header 1
-## Header 2
-### Header 3
+...
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnyeDuke/Enterprise-Security-Skill/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#2.初衷
 
-### Support or Contact
+建立企业安全技能知识库的原因有以下几点，或许有更多：
+1.知识需要积累和传递
+2.学习需要总结
+3.思维需要碰撞
+4.企业安全不能是浮于表面，更多的应该是思路，方案，技术的展现
+5.抛砖引玉
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 3.Support or Contact
+
+你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
+
+[Email]anyeduke@gmail.com
