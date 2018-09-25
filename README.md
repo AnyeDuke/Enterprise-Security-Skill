@@ -12,6 +12,8 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
   企业安全规划
   企业安全建设
   企业安全运营
+  企业安全相关资讯：包括安全资讯，企业安全规划建设运营
+  技术部分：APT，IDS，IPS，威胁情报，安全运营，
   其他
 
 ...
@@ -44,3 +46,5 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
 
 [Email]anyeduke@gmail.com
+
+资源来源于互联网，如有版权问题，请联系删除，本专栏请遵循GPL-3.0
