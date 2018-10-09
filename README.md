@@ -5,24 +5,26 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 # 1.结构
 
-初步规划是分成企业安全方案，技术，思维，资讯，涉及企业安全规划，建设，运营，但不仅限于此
-
-```markdown
-企业安全方案
-  企业安全规划
-  企业安全建设
-  企业安全运营
-  企业安全相关资讯：包括安全资讯，企业安全规划建设运营
-  技术部分：APT，IDS，IPS，威胁情报，安全运营，
-  其他
-
-...
-
-```
+初步规划是分成企业安全方案，技术，思维，资讯，涉及企业安全规划，建设，运营，但不仅限于此，主要用于企业安全建设运营知识库建设和分享
 
 ---
 
-![本项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%8A%80%E8%83%BD%E6%A0%91.png)
+企业安全方案
+  1.企业安全规划
+  2.企业安全建设
+  3.企业安全运营
+  4.企业安全相关资讯：包括安全资讯，企业安全规划建设运营，其他高质量安全资讯
+  5.技术部分：APT，IDS，IPS，威胁情报，安全运营
+  6.思维导图：企业安全架构思维导图
+  7.行业翘楚实战
+  8.其他
+
+---
+
+
+---
+
+![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86.png)
 
 
 
@@ -41,7 +43,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 5.抛砖引玉
 
 
-# 3.Support or Contact
+# 3.支持和联系
 
 你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
 
