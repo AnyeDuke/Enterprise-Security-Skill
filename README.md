@@ -9,20 +9,27 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 ---
 
-企业安全方案
+企业安全方案包含：
+
   1.企业安全规划
+  
   2.企业安全建设
+  
   3.企业安全运营
+  
   4.企业安全相关资讯：包括安全资讯，企业安全规划建设运营，其他高质量安全资讯
+  
   5.技术部分：APT，IDS，IPS，威胁情报，安全运营
+  
   6.思维导图：企业安全架构思维导图
+  
   7.行业翘楚实战
+  
   8.其他
 
 ---
 
 
----
 
 ![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86.png)
 
