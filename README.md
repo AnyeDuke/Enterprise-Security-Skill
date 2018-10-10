@@ -13,9 +13,9 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
   1.企业安全规划
   
-  2.企业安全建设
+  2.企业安全建设：代码审计和SDL落地
   
-  3.企业安全运营
+  3.企业安全运营：基于威胁情报的安全运营
   
   4.企业安全相关资讯：包括安全资讯，企业安全规划建设运营，其他高质量安全资讯
   
