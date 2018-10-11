@@ -15,6 +15,9 @@
 # 玄武实验室原始链接
 
 ## 10月
+https://xuanwulab.github.io/cn/secnews/2018/10/10/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/09/index.html
 
 https://xuanwulab.github.io/cn/secnews/2018/10/08/index.html
 
