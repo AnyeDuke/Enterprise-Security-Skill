@@ -56,8 +56,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 ### [一个人的安全部之企业信息安全建设规划.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%AE%89%E5%85%A8%E9%83%A8%E4%B9%8B%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md)
 
 
-### [企业安全思考集-发布于圈子.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%80%9D%E8%80%83%E9%9B%86-%E5%8F%91%E5%B8%83%E4%BA%8E%E5%9C%88%E5%AD%90.md
-)
+### [企业安全思考集-发布于圈子.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%80%9D%E8%80%83%E9%9B%86-%E5%8F%91%E5%B8%83%E4%BA%8E%E5%9C%88%E5%AD%90.md)
 
 ### [信息安全从运维向运营的进化.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E4%BB%8E%E8%BF%90%E7%BB%B4%E5%90%91%E8%BF%90%E8%90%A5%E7%9A%84%E8%BF%9B%E5%8C%96.md)
 
