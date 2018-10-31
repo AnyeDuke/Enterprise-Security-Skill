@@ -97,6 +97,10 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
  [信息安全架构能力集v0.5.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E8%83%BD%E5%8A%9B%E9%9B%86v0.5.pdf)
 
+[企业安全建设技能树v1.0](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE%E6%8A%80%E8%83%BD%E6%A0%91v1.0%20%E5%90%8E%E7%BB%AD%E6%9B%B4%E6%96%B0%E8%AF%B7%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9Ajungedetili%EF%BC%88%E5%90%9B%E5%93%A5%E7%9A%84%E4%BD%93%E5%8E%86%EF%BC%89.png)
+
+[CSO的生存艺术By ayazero](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/CSO%E7%9A%84%E7%94%9F%E5%AD%98%E8%89%BA%E6%9C%AFBy%20ayazero.md)
+
 
 ## 06-News
 
