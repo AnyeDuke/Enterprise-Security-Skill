@@ -12,9 +12,58 @@
 
 9月：http://note.youdao.com/noteshare?id=c6d3e1c812750e2f28962005b302d60f
 
+10月：http://note.youdao.com/noteshare?id=da2e4c2256ddbca220639f833ab00b37
+
+
 # 玄武实验室原始链接
+## 11月
+https://xuanwulab.github.io/cn/secnews/2018/11/02/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/11/01/index.html
 
 ## 10月
+https://xuanwulab.github.io/cn/secnews/2018/10/31/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/30/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/29/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/28/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/27/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/26/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/25/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/24/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/23/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/22/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/21/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/20/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/19/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/18/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/17/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/16/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/15/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/14/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/13/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/12/index.html
+
+https://xuanwulab.github.io/cn/secnews/2018/10/11/index.html
+
 https://xuanwulab.github.io/cn/secnews/2018/10/10/index.html
 
 https://xuanwulab.github.io/cn/secnews/2018/10/09/index.html
