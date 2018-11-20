@@ -89,6 +89,8 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 ## 04-Books
 
  [书单](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/04-Books/BookLists.md)
+ 
+[信息安全从业者书单](https://github.com/riusksk/secbook)
 
 
 ## 05-Minds
