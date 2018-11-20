@@ -103,6 +103,8 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 [CSO的生存艺术By ayazero](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/CSO%E7%9A%84%E7%94%9F%E5%AD%98%E8%89%BA%E6%9C%AFBy%20ayazero.md)
 
+[IBM 企业信息安全框架V5.0白皮书.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/IBM%20%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A1%86%E6%9E%B6V5.0%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
+
 
 ## 06-News
 
