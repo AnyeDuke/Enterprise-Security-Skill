@@ -13,7 +13,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
   1.企业安全规划
   
-  2.企业安全建设：代码审计和SDL落地
+  2.企业安全建设：基础防护，代码审计和SDL落地
   
   3.企业安全运营：基于威胁情报的安全运营
   
