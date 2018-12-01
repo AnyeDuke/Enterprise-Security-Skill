@@ -38,7 +38,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 
 
-![本开源企业安全实践知识库项目初步规划](https://zhimap.com/m/FmIGIzCV)
+![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/1543637083622.png)
 
 
 
