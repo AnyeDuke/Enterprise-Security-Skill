@@ -78,7 +78,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 -  [Solutions](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/02-BUILD/Solutions.md)
 
-- [甲方企业安全建设开源之路](https://github.com/bloodzer0/Enterprise_Security_Build--Open_Source)
+- [甲方企业安全建设开源之路](https://github.com/bloodzer0/ossa)
 也可参考《企业安全建设入门:基于开源软件打造企业网络安全》
 
 
