@@ -8,4 +8,4 @@
 
 [渗透测试前期信息收集技巧](https://bugbountytuts.files.wordpress.com/2018/02/dirty-recon.pdf)
 
-[2019 版 OSINT 开源情报收集指南] (https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
+[2019 版 OSINT 开源情报收集指南](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
