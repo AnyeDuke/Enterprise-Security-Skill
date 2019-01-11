@@ -9,3 +9,5 @@
 [渗透测试前期信息收集技巧](https://bugbountytuts.files.wordpress.com/2018/02/dirty-recon.pdf)
 
 [2019 版 OSINT 开源情报收集指南](https://www.randhome.io/blog/2019/01/05/2019-osint-guide/)
+
+[LeakLooker - 使用 Shodan 快速寻找可公开访问数据库的工具](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472)
