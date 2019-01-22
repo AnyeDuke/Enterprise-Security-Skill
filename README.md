@@ -45,7 +45,11 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 部分企业安全攻防相关内容会直接放于知识星球，ESS力求精华，言简意赅
 
-![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190109092543.png)
+  - github汇总成熟思路和方案
+  
+  - ES知识星球不定时发布技术和攻防
+
+![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/ES.png)
 
 
 # 2.初衷
