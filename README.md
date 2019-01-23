@@ -8,7 +8,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 初步规划是分成企业安全方案，技术，思维，资讯，涉及企业安全规划，建设，运营，但不仅限于此，主要用于企业安全建设运营知识库建设和分享
 
 ---
-**内容会不定时更新，宁缺毋滥 **
+** 内容会不定时更新，宁缺毋滥 **
 
 企业安全方案包含：
 
