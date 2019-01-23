@@ -70,7 +70,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 计划更新：Catalog：增加快速阅读目录，直接阅读
 - 计划增加：蜜罐和APT
- - updatetime： 1 month
+  - updatetime： 1 month
 
 
 # 4.主要内容目录
