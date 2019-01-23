@@ -1,5 +1,5 @@
-# Honeybot
+# Honeypot
 
-## Web HoneyBot
+## Web Honeypot
 
 - Snare: https://github.com/mushorg/snare
