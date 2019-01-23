@@ -26,7 +26,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
    
  - 7.工具：企业安全规划建设运营使用的工具
   
- - 8.攻防（目前只有攻击部分）：OSINT（情报收集），后续会加入漏洞库，攻防对抗，APT
+ - 8.攻防（目前只有攻击部分）：OSINT（情报收集），HoneyPots（蜜罐），后续会加入漏洞库，攻防对抗，APT
   
  - 9.其他
   
@@ -66,7 +66,14 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 5.抛砖引玉
 
-# 3.主要内容目录
+# 3.Changlog
+
+- 计划更新：Catalog：增加快速阅读目录，直接阅读
+- 计划增加：蜜罐和APT
+ - updatetime： 1 month
+
+
+# 4.主要内容目录
 
 ## 01-PLAN
 
@@ -157,6 +164,12 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - [LeakLooker - 使用 Shodan 快速寻找可公开访问数据库的工具](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472)
 
+### Honeypot
+
+- SNARE：https://github.com/mushorg/snare
+
+- T-Pot：https://github.com/dtag-dev-sec/tpotce
+
 ## 09-Other
 
 ### OWASP
@@ -164,7 +177,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 -  [OWASP_EVENTS-2018.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Other/01-OWASP/OWASP_EVENTS-2018.md)
 
 
-# 4.支持和联系
+# 5.支持和联系
 
 你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
 
