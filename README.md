@@ -45,9 +45,9 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 部分企业安全攻防相关内容会直接放于知识星球，ESS力求精华，言简意赅
 
-  - github汇总成熟思路和方案
+  - github汇总成熟思路和方案[ESS](https://github.com/AnyeDuke/Enterprise-Security-Skill)
   
-  - ES知识星球不定时发布技术和攻防[AT&P](https://github.com/AnyeDuke/AT-P-list/blob/master/README.md)
+  - ES知识星球不定时发布技术和攻防[AT&P](https://github.com/AnyeDuke/AT-P-list)
 
 ![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/ES_20190122144409.png)
 
