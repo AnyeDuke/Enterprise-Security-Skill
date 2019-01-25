@@ -15,7 +15,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
  - 1.企业安全规划
   
- - 2.企业安全建设：基础防护，代码审计和SDL落地
+ - 2.企业安全建设：基础防护，代码审计和SDL落地，HoneyPots（蜜罐）（New）
   
  - 3.企业安全运营：基于威胁情报的安全运营
   
@@ -27,7 +27,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
    
  - 7.工具：企业安全规划建设运营使用的工具
   
- - 8.攻防（目前只有攻击部分）：OSINT（情报收集），HoneyPots（蜜罐），后续会加入漏洞库，攻防对抗，APT
+ - 8.攻防（目前只有攻击部分）：OSINT（情报收集），后续会加入漏洞库，攻防对抗，APT
   
  - 9.其他
   
@@ -41,7 +41,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 
 
-![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86.png)
+![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86v0.1.png)
 
 
 - 部分企业安全攻防相关内容会直接放于知识星球，ESS力求精华，言简意赅
@@ -110,6 +110,33 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - [端口安全](https://github.com/AnyeDuke/Enterprise-Security-Skill/tree/master/02-BUILD/Port_Security)
 
+### Honeypot (New)
+
+- SNARE：https://github.com/mushorg/snare
+
+- T-Pot：https://github.com/dtag-dev-sec/tpotce
+
+- Shmakov:https://github.com/Shmakov/Honeypot
+
+- [dionaea](https://1isten.xyz/2018/06/04/dionaea%E8%9C%9C%E7%BD%90%E6%90%AD%E5%BB%BA/#more?nsukey=yrx2I0DvfB36CtRSolCx4l7AyqPZivLxvRJq4ajNuGcrB3HwAyCNusEFr54FNoy9Pp8VPVdtuN8YqO%2FklzkCsyYe4xu4OL7zIlqkJu7zSAH8ziItt5qn2uaPF6OjoItLhWicnWA8cBr9ALXlM5KfF2nfn89BW2z3ZoOpYnpb144%3D)
+
+- opencanary_web:https://github.com/p1r06u3/opencanary_web
+
+- 蜜罐与内网安全从0到1系列
+
+   - https://sosly.me/index.php/2017/08/23/goldenspark1/
+   
+   - https://sosly.me/index.php/2017/09/05/jymiguan2/
+   
+   - https://sosly.me/index.php/2017/10/15/jymiguan3/
+   
+   - https://sosly.me/index.php/2017/11/15/jymiguan4/
+   
+   - https://sosly.me/index.php/2018/03/20/jymiguan5/
+   
+   - https://sosly.me/index.php/2018/03/21/jymiguan6/
+   
+   - https://sosly.me/index.php/2018/03/22/jymiguan7/
 
 
 ## 03-Operation
@@ -173,11 +200,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - [LeakLooker - 使用 Shodan 快速寻找可公开访问数据库的工具](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472)
 
-### Honeypot
 
-- SNARE：https://github.com/mushorg/snare
-
-- T-Pot：https://github.com/dtag-dev-sec/tpotce
 
 ## 09-Other
 
