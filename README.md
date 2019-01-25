@@ -2,6 +2,7 @@
 
 You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/Enterprise-Security-Skill/edit/master/README.md) to maintain and preview the content.
 
+![](https://img.shields.io/badge/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83-@%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8ES-red.svg)
 
 # 1.结构
 
