@@ -77,6 +77,10 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 # 4.主要内容目录
 
+目录后续只更新到Catalog.md，力求精简
+
+- [Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
+
 ## 01-PLAN
 
  - [一个人的安全部之企业信息安全建设规划.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%AE%89%E5%85%A8%E9%83%A8%E4%B9%8B%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md)
