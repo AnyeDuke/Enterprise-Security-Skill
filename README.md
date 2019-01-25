@@ -115,6 +115,8 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 -  [安全运营中威胁情报的应用.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/03-Operation/01-SecurityOperation/%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E4%B8%AD%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
 
+- [基于主动防御能力，建设安全运营中心的一点思考(New)](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/03-Operation/01-SecurityOperation/%E5%9F%BA%E4%BA%8E%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1%E8%83%BD%E5%8A%9B%EF%BC%8C%E5%BB%BA%E8%AE%BE%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83.md)
+
 
 
 ## 04-Books
