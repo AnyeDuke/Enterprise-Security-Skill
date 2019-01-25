@@ -170,6 +170,8 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - [IBM 企业信息安全框架V5.0白皮书.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/IBM%20%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A1%86%E6%9E%B6V5.0%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf)
 
+- [安全研究者的自我修养byriusksk.md(New)](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/05-Mind/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BBbyriusksk.md)
+
 
 ## 06-News
 
