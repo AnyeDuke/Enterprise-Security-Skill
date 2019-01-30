@@ -135,7 +135,7 @@
 
 你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
 
-[Email]anyeduke@gmail.com
+- Email：anyeduke@gmail.com
 
 资源来源于互联网，如有版权问题，请联系删除，本专栏请遵循GPL-3.0
 
