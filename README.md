@@ -27,7 +27,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
    
  - 7.工具：企业安全规划建设运营使用的工具
   
- - 8.攻防（目前只有攻击部分）：OSINT（情报收集），后续会加入漏洞库，攻防对抗，APT
+ - 8.攻防（目前只有攻击部分）：OSINT（情报收集），**PT(持续威胁)（New）**后续会加入漏洞库，攻防对抗，APT
   
  - 9.其他
   
@@ -67,11 +67,15 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 5.抛砖引玉
 
-# 3.Changlog
+# 3.Changlog更新日志
 
 - 计划更新：Catalog：增加快速阅读目录，直接阅读
 
 - 计划增加：蜜罐和APT
+
+- 已经增加：PT（持续威胁）部分
+
+- 计划停止更新部分：主要内容目录的内容，全部移植[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
 
   - updatetime： 1 month
 
