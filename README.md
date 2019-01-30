@@ -82,7 +82,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - [Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
 
-以下简单目录停止增加，后续参见Ctalog.md
+以下简单目录停止增加，后续参见[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
 
 ## 01-PLAN
 
