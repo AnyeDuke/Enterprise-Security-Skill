@@ -125,7 +125,7 @@
    
    - https://sosly.me/index.php/2018/03/22/jymiguan7/
 
-### PT(持续威胁)
+### PT(持续威胁)(New)
 
 - 如何通过 vim 来实现代码执行及持久化等攻击
 
@@ -136,7 +136,7 @@
     - [[LIGHT] Weapons of Text Destruction.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Attack/01-PT/%5BLIGHT%5D%20Weapons%20of%20%20Text%20Destruction.pdf)
 
 
-### APT(高级持续威胁)
+### APT(高级持续威胁)(New)
 
 - [APT-CheetSheet](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Attack/02-APT/APT-cheetsheet.md)
 
@@ -154,7 +154,7 @@
 
 你可以直接在issue或者通过邮箱联系我，进行更新上传，欢迎一起构建企业安全学习知识库
 
-- Email：anyeduke@gmail.com
+- Email:anyeduke@gmail.com
 
 资源来源于互联网，如有版权问题，请联系删除，本专栏请遵循GPL-3.0
 
