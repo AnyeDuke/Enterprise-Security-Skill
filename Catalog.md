@@ -125,6 +125,25 @@
    
    - https://sosly.me/index.php/2018/03/22/jymiguan7/
 
+### PT(持续威胁)
+
+- 如何通过 vim 来实现代码执行及持久化等攻击
+
+    - https://github.com/jaredestroud/WOTD
+    
+    - [[DARK] Weapons of Text Destruction.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Attack/01-PT/%5BDARK%5D%20Weapons%20of%20%20Text%20Destruction.pdf)
+    
+    - [[LIGHT] Weapons of Text Destruction.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Attack/01-PT/%5BLIGHT%5D%20Weapons%20of%20%20Text%20Destruction.pdf)
+
+
+### APT(高级持续威胁)
+
+- [APT-CheetSheet](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/08-Attack/02-APT/APT-cheetsheet.md)
+
+
+
+
+
 ## 09-Other
 
 ### OWASP
