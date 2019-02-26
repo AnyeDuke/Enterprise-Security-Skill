@@ -20,6 +20,8 @@
 -  [如何进行项目策划.pdf](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E9%A1%B9%E7%9B%AE%E7%AD%96%E5%88%92.pdf)
 
  - [捻乱止于河防——浅谈企业入侵防御体系建设](https://security.tencent.com/index.php/blog/msg/68)
+ 
+ - [如何评价企业信息安全做得好不好？](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/01-PLAN/%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%BC%81%E4%B8%9A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%81%9A%E5%BE%97%E5%A5%BD%E4%B8%8D%E5%A5%BD%EF%BC%9F.md)
 
 
 ## 02-BUILD
@@ -35,6 +37,8 @@
 - [端口安全](https://github.com/AnyeDuke/Enterprise-Security-Skill/tree/master/02-BUILD/Port_Security)
 
 - [甲方安全建设的一些思路和思考](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/02-BUILD/%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%B7%AF%E5%92%8C%E6%80%9D%E8%80%83.md)
+
+- [将军令：数据安全平台建设实践](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/02-BUILD/%E5%B0%86%E5%86%9B%E4%BB%A4%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%BB%BA%E8%AE%BE%E5%AE%9E%E8%B7%B5.md)
 
 
 
