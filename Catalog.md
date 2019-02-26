@@ -34,6 +34,8 @@
 
 - [端口安全](https://github.com/AnyeDuke/Enterprise-Security-Skill/tree/master/02-BUILD/Port_Security)
 
+- [甲方安全建设的一些思路和思考](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/02-BUILD/%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%B7%AF%E5%92%8C%E6%80%9D%E8%80%83.md)
+
 
 
 ## 03-Operation
