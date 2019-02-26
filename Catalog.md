@@ -46,6 +46,7 @@
 
 - [基于主动防御能力，建设安全运营中心的一点思考(New)](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/03-Operation/01-SecurityOperation/%E5%9F%BA%E4%BA%8E%E4%B8%BB%E5%8A%A8%E9%98%B2%E5%BE%A1%E8%83%BD%E5%8A%9B%EF%BC%8C%E5%BB%BA%E8%AE%BE%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%9D%E8%80%83.md)
 
+- [谈一谈如何建设体系化的安全运营中心(SOC)](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/03-Operation/01-SecurityOperation/%E8%B0%88%E4%B8%80%E8%B0%88%E5%A6%82%E4%BD%95%E5%BB%BA%E8%AE%BE%E4%BD%93%E7%B3%BB%E5%8C%96%E7%9A%84%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83(SOC).md)
 
 
 ## 04-Books
