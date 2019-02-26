@@ -104,6 +104,8 @@
 
 - [LeakLooker - 使用 Shodan 快速寻找可公开访问数据库的工具](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472)
 
+- Miro8:https://github.com/Micropoor/Micro8
+
 ### Honeypot（New）
 
 - SNARE：https://github.com/mushorg/snare
