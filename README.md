@@ -79,6 +79,9 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
   - updatetime： 1 month
 
+- 20190226
+
+  - 增加安全运营，安全建设内容至Operation，Build
 
 # 4.主要内容目录
 
