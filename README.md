@@ -41,7 +41,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 
 
-![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86v0.1.png)
+~~![本开源企业安全实践知识库项目初步规划](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E8%BF%90%E8%90%A5%E5%BB%BA%E8%AE%BE%E9%9B%86v0.1.png)
 
 
 - 部分企业安全攻防相关内容会直接放于知识星球，ESS力求精华，言简意赅
