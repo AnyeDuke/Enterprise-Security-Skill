@@ -53,6 +53,7 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 ![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/ES_20190122144409.png)
 
 
+
 # 2.初衷
 
 建立企业安全技能知识库的原因有以下几点，或许有更多：
@@ -82,6 +83,11 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 - 20190226
 
   - 增加安全运营，安全建设内容至Operation，Build
+
+- 20190624
+
+  - 推荐数据分析相关资料：https://github.com/secure-data-analysis-data-sharing/data-analysis
+  
 
 # 4.主要内容目录
 
