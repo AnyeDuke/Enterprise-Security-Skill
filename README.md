@@ -70,19 +70,17 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 # 3.Changlog更新日志
 
-- 计划更新：Catalog：增加快速阅读目录，直接阅读
-
-- 计划增加：蜜罐和APT
-
-- 已经增加：PT（持续威胁）部分
-
-- 计划停止更新部分：主要内容目录的内容，全部移植[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
-
-  - updatetime： 1 month
+- 计划更新
+  
+  - 7月底完成 企业安全整体github结构调整
+  
+  - 更新gayhub内容到最新
 
 - 20190226
 
   - 增加安全运营，安全建设内容至Operation，Build
+  
+  -主要内容目录的内容，全部移植[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
 
 - 20190624
 
