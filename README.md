@@ -72,15 +72,14 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 
 - 计划更新
   
-  - 7月底完成 企业安全整体github结构调整
+  - PolicyHub策略库搭建和更新
   
-  - 更新gayhub内容到最新
 
 - 20190226
 
   - 增加安全运营，安全建设内容至Operation，Build
   
-  -主要内容目录的内容，全部移植[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
+  - 主要内容目录的内容，全部移植[Catalog.md](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/Catalog.md)
 
 - 20190624
 
