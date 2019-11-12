@@ -73,8 +73,11 @@ You can use the [Enterprise-Security-Skill Github](https://github.com/AnyeDuke/E
 - 计划更新
   
   - PolicyHub策略库搭建和更新
-  
 
+- 20191112
+
+  - update Book书单
+  
 - 20190226
 
   - 增加安全运营，安全建设内容至Operation，Build
